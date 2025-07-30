@@ -22,9 +22,8 @@ This project implements a binary classification system to identify whether two q
 │   ├── ...                                   # ... (parts 3-49)
 │   ├── final_features_part_50.csv            # Processed features (part 50)
 │   └── final_features.csv                    # Complete processed dataset
-├── src/                
-|   ├── Preprocessed_Feature_engineering.ipynb    # Phase 1: Feature engineering pipeline
-|   ├── Model_trainning.ipynb                     # Phase 2: Model training & evaluation
+├── Preprocessed_Feature_engineering.ipynb    # Phase 1: Feature engineering pipeline
+├── Model_trainning.ipynb                     # Phase 2: Model training & evaluation
 └── README.md                                 # Project documentation
 ```
 
